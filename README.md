@@ -10,10 +10,10 @@
 
 2. Crea un entorno virtual e instala dependencias
 
-python -m venv venv
-source venv/bin/activate  
+       python -m venv venv
+       source venv/bin/activate  
 # En Windows: venv\\Scripts\\activate
-pip install -r requirements.txt
+       pip install -r requirements.txt
 
 📊 Tecnologías utilizadas
 Python (Pandas, NumPy, Matplotlib, Seaborn)
